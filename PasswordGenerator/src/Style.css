@@ -1,0 +1,9 @@
+input[type="range"]{
+    width: 100px;
+    height: 15px;
+}
+.values{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
